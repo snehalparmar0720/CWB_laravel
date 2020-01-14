@@ -1,0 +1,47 @@
+.total_right{
+	font-weight:bold;
+    text-align:right;
+}
+.amount_right{
+    text-align:right;
+}
+tr#heading_text>th
+{
+    text-align:center;
+}
+#heading_text{
+    text-align:center;
+    color:#cf2aca;
+}
+form.form-filter{
+    /*overflow: hidden;*/
+}
+form.form-filter fieldset{
+    border: 1px solid #E5E5E5;
+    margin: 0;
+    padding: 10px;
+}
+form.form-filter fieldset legend{
+    border: none;
+    width: auto;
+    color: #333333;
+    margin: 0;
+    line-height: 20px;
+    font-size: 16px;
+}
+form.form-filter ul.search{
+    list-style: none;
+    clear: both;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+form.form-filter ul.search li{
+    float: left;
+    margin-right:5px;
+}
+form.form-filter ul.search li.action{
+    margin-top: 25px;
+    float:left;
+    margin-right:5px;
+}

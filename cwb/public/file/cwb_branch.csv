@@ -1,0 +1,67 @@
+﻿branch_name,region_code,region_name
+[001] CWT Admin,OLB,OTHER LINE OF BUSINESS
+[001] Valiant Trust,OLB,OTHER LINE OF BUSINESS
+[031] Vancouver DPC,OLB,OTHER LINE OF BUSINESS
+[032] Edmonton DPC,OLB,OTHER LINE OF BUSINESS
+[081] Corporate Loans,OLB,OTHER LINE OF BUSINESS
+[082] Vancouver Corporate Lending,OLB,OTHER LINE OF BUSINESS
+[089] CWB Franchise Finance,OLB,OTHER LINE OF BUSINESS
+[090] Motive Financial,OLB,OTHER LINE OF BUSINESS
+[095] Optimum Mortgage,OLB,OTHER LINE OF BUSINESS
+[096] Optimum Mortgage,OLB,OTHER LINE OF BUSINESS
+[095] Optimum Mortgage - CWB,OLB,OTHER LINE OF BUSINESS
+[096] Optimum Mortgage - CWT,OLB,OTHER LINE OF BUSINESS
+[097] Virtual Branch,OLB,OTHER LINE OF BUSINESS
+[003] Calgary Main,PR,PRAIRIE 
+[007] Lethbridge,PR,PRAIRIE 
+[012] Calgary Chinook,PR,PRAIRIE 
+[015] Calgary South Trail Crossing,PR,PRAIRIE 
+[016] Calgary North East,PR,PRAIRIE 
+[017] Calgary Foothills,PR,PRAIRIE 
+[018] Calgary Broker Buying Centre,PR,PRAIRIE 
+[019] Medicine Hat,PR,PRAIRIE 
+[020] Winnipeg,PR,PRAIRIE 
+[022] Winnipeg Kenaston,PR,PRAIRIE 
+[040] Saskatoon,PR,PRAIRIE 
+[041] Regina,PR,PRAIRIE 
+[042] Yorkton,PR,PRAIRIE 
+[043] Saskatoon North Landing,PR,PRAIRIE 
+[002] Edmonton Main,NA,NORTHERN AB
+[004] Edmonton West Point,NA,NORTHERN AB
+[005] Red Deer,NA,NORTHERN AB
+[006] South Edmonton Common,NA,NORTHERN AB
+[008] Edmonton 103rd Street,NA,NORTHERN AB
+[009] St. Albert,NA,NORTHERN AB
+[010] Sherwood Park,NA,NORTHERN AB
+[011] Edmonton Old Strathcona,NA,NORTHERN AB
+[014] Grande Prairie,NA,NORTHERN AB
+[023] Leduc,NA,NORTHERN AB
+[024] Lloydminster,NA,NORTHERN AB
+[030] Vancouver Regional Office,BC ,BC 
+[033] Victoria,BC ,BC 
+[034] Kelowna,BC ,BC 
+[035] Park Place,BC ,BC 
+[036] Nanaimo,BC ,BC 
+[037] West Broadway,BC ,BC 
+[038] Kelowna Industrial,BC ,BC 
+[039] Prince George,BC ,BC 
+[060] Courtenay,BC ,BC 
+[061] Coquitlam,BC ,BC 
+[062] Langley,BC ,BC 
+[063] Surrey Strawberry Hill,BC ,BC 
+[064] Kamloops,BC ,BC 
+[065] Kitsilano,BC ,BC 
+[066] Abbotsford ,BC ,BC 
+[067] Cranbrook,BC ,BC 
+[068] Surrey Panorama Ridge,BC ,BC 
+[069] Richmond,BC ,BC 
+[EFG] Edmonton & Area,EFG,EFG
+[EFG] Central & Southern AB,EFG,EFG
+[EFG] Peace Country SK & MB,EFG,EFG
+[EFG] BC Coast,EFG,EFG
+[EFG] BC Interior,EFG,EFG
+[083] EFG Ontario,EFG,EFG
+[EFG] Calgary Broker Buying Centre - BR 018,EFG,EFG
+[116] Northern AB Regional,SP,NAB Credit Support
+[117] Prairie Regional,SP,PRAIRIE Credit Support
+[118] BC Regional,SP,BC Credit Support

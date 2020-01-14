@@ -1,0 +1,90 @@
+Review Type,Title,table,column
+naics,NAICSCode,non_personal,naics_code
+naics,NAICSName,non_personal,naics_name
+naics,NAICSSectorName,non_personal,naics_sector_name
+naics,NAICSInternalSectorName,non_personal,naics_internal_sector_name
+naics,NAICS Lookup,non_personal,naics_lookup
+naics,NAICSProhibited,non_personal,naics_prohibited
+naics,Name Holding but Not Holding Company,non_personal,name_holding_but_not_holding_company
+naics,NAICS Review,non_personal_review,naics_r
+naics,NAICS DEFICIENCY COMMENTS,non_personal,naics_def_comm
+address,Line1Address,address,line_1_address
+address,Line2Address,address,line_2_address
+address,Line3Address,address,line_3_address
+address,CustomerCityName,address,customer_city_name
+address,PostalCode,address,postal_code
+address,ProvinceStateCode,address,province_state_code
+address,AddressCountryCode,address,address_country_code
+address,LegalLine1Address,address,line_1_address_legal
+address,LegalLine2Address,address,line_2_address_legal
+address,LegalLine3Address,address,line_3_address_legal
+address,LegalCustomerCityName,address,customer_city_name_legal
+address,LegalPostalCode,address,postal_code_legal
+address,LegalProvinceStateCode,address,province_state_code_legal
+address,LegalAddressCountryCode,address,address_country_code_legal
+address,CountryOfResidenceDesc,residence,country_of_residence_desc
+address,CanadaPostAddressLine1,residence,cp_address
+address,CanadaPostCity,residence,cp_city
+address,CanadaPostPostalCode,residence,cp_postal_code
+address,CanadaPostProvince,residence,cp_province
+address,CanadaPostCountry,residence,cp_country
+address,NonResidentFlag,residence,non_residential_flag
+address,Address Review,review,address_review
+address,ADDRESS DEFICIENCY COMMENTS,residence,address_def_comm
+charity,RegisteredCharityFlag,non_personal,registered_charity_flag
+charity,AcceptsDonationsFlag,non_personal,accepts_donations_flag
+charity,Charity Review,non_personal_review,charity_r
+charity,Charity DEFICIENCY COMMENTS,non_personal,charity_def_comm
+thirdparty,ThirdPartyFlag,third_party,third_party_flag
+thirdparty,Third Party,non_personal_review,third_party
+thirdparty,TP DEFICIENCY COMMENTS,third_party,third_party_def_comm
+intendeduse,IntendedUseCode,intended_use,intended_use_code
+intendeduse,IntendedUseDesc,intended_use,intended_use_desc
+intendeduse,IntendedUseOtherDesc,intended_use,intended_use_other_desc
+intendeduse,Intended Use,non_personal_review,intended_use
+intendeduse,IU DEFICIENCY COMMENTS,intended_use,intended_use_def_comm
+averagemoney,AvgMoCashDep,average_money,avg_mo_cash_dep
+averagemoney,AvgMoChqDep,average_money,avg_mo_chq_dep
+averagemoney,AvgMoIncWire,average_money,avg_mo_inc_wire
+averagemoney,AvgMoOutWire,average_money,avg_mo_out_wire
+averagemoney,Anticipated Acct Activities,non_personal_review,anticipated_acct_activities
+averagemoney,AAA DEFICIENCY COMMENTS,average_money,aaa_def_comm
+nonpersonal,Ownership Structure,non_personal_review,ownership_structure
+nonpersonal,Owners on System,non_personal_review,owners_on_system
+nonpersonal,Confirm Existance,non_personal_review,confirmed_existence
+nonpersonal,Record of Directors,non_personal_review,record_of_directors
+nonpersonal,Directors on System,non_personal_review,directors_on_system
+nonpersonal,Signers Review,non_personal_review,signers_review
+metrics,JointTotalCount,metrics,joint_total_count
+metrics,PrimaryCount,metrics,primary_count
+metrics,JointJointCount,metrics,joint_joint_count
+metrics,JointSingerCount,metrics,joint_singer_count
+metrics,JointPowerOfAttorneyCount,metrics,joint_power_of_attorney_count
+metrics,JointExecutorCount,metrics,joint_executor_count
+metrics,JointTrusteeCount,metrics,joint_trustee_count
+metrics,JointTenantsInCommonCount,metrics,joint_tenants_in_common_count
+metrics,JointGuarantorCount,metrics,joint_guarantor_count
+metrics,JointThirdPartyCount,metrics,joint_third_party_count
+metrics,JointOtherCount,metrics,joint_other_count
+metrics,TotalAccountCount,metrics,total_account_count
+metrics,TotalDepositCount,metrics,total_deposit_count
+metrics,TotalDemandAccountCount,metrics,total_demand_account_count
+metrics,TotalLoanCount,metrics,total_loan_count
+metrics,TotalTermDepositCount,metrics,total_term_deposit_count
+metrics,CIF Count,metrics,cif_count
+metrics,EFG CIF Count,metrics,EFG_CIF_count
+metrics,CIF ITF Count,metrics,CIF_ITF_count
+metrics,Account Count,metrics,account_count
+metrics,ITF Account Count,metrics,itf_account_count
+cwb,Physical File Review,non_personal_review,physical_file_review
+cwb,FILENET/WAVE,non_personal_review,filenet_wave
+cwb,Date Sent,non_personal_review,date_sent
+cwb,Date Received,non_personal_review,date_received
+cwb,Br Note,non_personal_review,br_note
+cwb,Physical Date Reviewed,review,physical_date_review
+cwb,Physical Reviewed by,review,physical_reviewed_by
+cwb,Physical QA by,review,physical_qa_by
+cwb,Physical QA Note,review,physical_qa_note
+cwb,Electronic QA by,review,electronic_qa_by
+cwb,Electronic QA Note,review,electronic_qa_note
+cwb,Electronic QA Rating,review,electronic_qa_rating
